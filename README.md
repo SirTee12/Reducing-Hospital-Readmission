@@ -1,5 +1,5 @@
 # Reducing-Hospital-Readmissions
-## 2. Executive summary
+## Executive summary
 Our consulting company has been tasked with helping a hospital group improve their understanding of patient readmissions. We have been given access to ten years' worth of data on patients who were readmitted to the hospital after being discharged. Our goal is to assess whether initial diagnoses, the number of procedures, or other variables could provide insight into the probability of readmission, and to identify those patients who are at a higher risk of readmission so that the hospital can focus their follow-up calls and attention accordingly.
 
 To achieve these objectives, we have prepared a report covering the following:
